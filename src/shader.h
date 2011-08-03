@@ -1,6 +1,10 @@
 /*
- *  shader.h
- *  openFrameworks
+ *	shader.h
+ *	openFrameworks
+ *
+ *	Wrapper around ofxShader addon and ofxFBOTexture addon.
+ *
+ *
  */
 
 #include "ofMain.h"

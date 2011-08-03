@@ -28,6 +28,7 @@ class Interplay : public ofBaseApp{
 		//--------------------------------------------------------------
 		vector<ofVideoPlayer*> videos;	// TODO refactor into class?
 		vector<ofTexture*> results;
+
 		// TODO not in use atm, may refactor into "blob extractor" class
 		ofTexture result;
 
