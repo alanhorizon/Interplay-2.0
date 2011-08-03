@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="release" />
-	<File name="..\..\..\addons\ofxShader\src\ofxFBOTexture.h" open="1" top="0" tabpos="6">
-		<Cursor position="721" topLine="18" />
+	<File name="..\..\..\addons\ofxShader\src\ofxFBOTexture.h" open="0" top="0" tabpos="6">
+		<Cursor position="721" topLine="8" />
 	</File>
 	<File name="..\..\..\addons\ofxShader\src\ofxShader.cpp" open="0" top="0" tabpos="0">
 		<Cursor position="3725" topLine="124" />
 	</File>
-	<File name="bin\data\shaders\mask.frag" open="1" top="1" tabpos="3">
-		<Cursor position="1071" topLine="0" />
+	<File name="..\..\..\addons\ofxShader\src\ofxShader.h" open="0" top="0" tabpos="0">
+		<Cursor position="104" topLine="3" />
 	</File>
-	<File name="bin\data\shaders\mask.vert" open="1" top="0" tabpos="4">
-		<Cursor position="71" topLine="0" />
+	<File name="bin\data\shaders\mask.frag" open="0" top="0" tabpos="3">
+		<Cursor position="1227" topLine="8" />
+	</File>
+	<File name="bin\data\shaders\mask.vert" open="0" top="0" tabpos="4">
+		<Cursor position="171" topLine="0" />
 	</File>
 	<File name="src\VideoBlender.cpp" open="0" top="0" tabpos="5">
 		<Cursor position="592" topLine="0" />
@@ -28,19 +31,19 @@
 	<File name="src\VideoMasker.h" open="0" top="0" tabpos="4">
 		<Cursor position="183" topLine="0" />
 	</File>
-	<File name="src\interplay.cpp" open="1" top="0" tabpos="1">
-		<Cursor position="3440" topLine="78" />
+	<File name="src\interplay.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="1262" topLine="132" />
 	</File>
-	<File name="src\interplay.h" open="1" top="0" tabpos="5">
-		<Cursor position="77" topLine="0" />
+	<File name="src\interplay.h" open="0" top="0" tabpos="5">
+		<Cursor position="350" topLine="0" />
 	</File>
 	<File name="src\main.cpp" open="0" top="0" tabpos="7">
 		<Cursor position="402" topLine="0" />
 	</File>
-	<File name="src\shader.cpp" open="1" top="0" tabpos="2">
-		<Cursor position="1640" topLine="26" />
+	<File name="src\shader.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="127" topLine="0" />
 	</File>
 	<File name="src\shader.h" open="0" top="0" tabpos="2">
-		<Cursor position="252" topLine="0" />
+		<Cursor position="513" topLine="0" />
 	</File>
 </CodeBlocks_layout_file>
