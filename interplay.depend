@@ -710,8 +710,9 @@
 	"ofGstUtils.h"
 	"ofQtUtils.h"
 
-1310139261 c:\of_prerelease_v0062_win_cb_fat\apps\workspace\interplay\src\interplay.h
+1311259343 c:\of_prerelease_v0062_win_cb_fat\apps\workspace\interplay\src\interplay.h
 	"ofMain.h"
+	"shader.h"
 
 1309891593 source:c:\of_prerelease_v0062_win_cb_fat\apps\workspace\interplay\src\videoplayer.cpp
 	"VideoPlayer.h"
@@ -724,13 +725,13 @@
 
 1309899094 c:\of_prerelease_v0062_win_cb_fat\apps\workspace\interplay\src\videomasker.h
 
-1310139383 source:c:\of_prerelease_v0062_win_cb_fat\apps\workspace\interplay\src\interplay.cpp
+1311270964 source:c:\of_prerelease_v0062_win_cb_fat\apps\workspace\interplay\src\interplay.cpp
 	"interplay.h"
 	"VideoMasker.h"
 	"VideoBlender.h"
 	<vector>
 
-1309904950 source:c:\of_prerelease_v0062_win_cb_fat\apps\workspace\interplay\src\videoblender.cpp
+1310141817 source:c:\of_prerelease_v0062_win_cb_fat\apps\workspace\interplay\src\videoblender.cpp
 	"VideoBlender.h"
 	<iostream>
 
@@ -741,4 +742,25 @@
 
 1310129631 c:\of_prerelease_v0062_win_cb_fat\apps\workspace\interplay\src\videomanager.h
 	"ofMain.h"
+
+1310407246 source:c:\of_prerelease_v0062_win_cb_fat\addons\ofxshader\src\ofxfbotexture.cpp
+	"ofxFBOTexture.h"
+
+1310407247 c:\of_prerelease_v0062_win_cb_fat\addons\ofxshader\src\ofxfbotexture.h
+	"ofMain.h"
+	<iostream>
+
+1310399548 source:c:\of_prerelease_v0062_win_cb_fat\addons\ofxshader\src\ofxshader.cpp
+	"ofxShader.h"
+
+1310399548 c:\of_prerelease_v0062_win_cb_fat\addons\ofxshader\src\ofxshader.h
+	"ofMain.h"
+
+1311258806 c:\of_prerelease_v0062_win_cb_fat\apps\workspace\interplay\src\shader.h
+	"ofMain.h"
+	"ofxShader.h"
+	"ofxFBOTexture.h"
+
+1311283280 source:c:\of_prerelease_v0062_win_cb_fat\apps\workspace\interplay\src\shader.cpp
+	"shader.h"
 

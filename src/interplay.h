@@ -3,6 +3,7 @@
 
 
 #include "ofMain.h"
+#include "shader.h"
 
 enum IPState {
 	playing
@@ -29,6 +30,10 @@ class Interplay : public ofBaseApp{
 		vector<ofTexture*> results;
 		// TODO not in use atm, may refactor into "blob extractor" class
 		ofTexture result;
+
+		shader mask;
+
+		int w, h;
 
 
 

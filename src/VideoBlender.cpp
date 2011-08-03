@@ -20,10 +20,10 @@ unsigned char* VideoBlender::createRgbaFromMagentaMask(unsigned char* rgbFrame, 
 				rgbFrame[3*(j*frameWidth + i) + 1] == 0 &&
 				rgbFrame[3*(j*frameWidth + i) + 2] == 255){
 				// set alpha completely transparent i.e. black 0x000000
-				rgbaFrame[4*(j*frameWidth + i) + 0] = 255;
+				rgbaFrame[4*(j*frameWidth + i) + 0] = 0;
 				rgbaFrame[4*(j*frameWidth + i) + 1] = 0;
-				rgbaFrame[4*(j*frameWidth + i) + 2] = 255;
-				rgbaFrame[4*(j*frameWidth + i) + 3] = 150;
+				rgbaFrame[4*(j*frameWidth + i) + 2] = 0;
+				rgbaFrame[4*(j*frameWidth + i) + 3] = 0;
 			} else{
 				rgbaFrame[4*(j*frameWidth + i) + 0] = rgbFrame[3*(j*frameWidth + i) + 0];
 				rgbaFrame[4*(j*frameWidth + i) + 1] = rgbFrame[3*(j*frameWidth + i) + 1];
